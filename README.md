@@ -1,6 +1,6 @@
 <h1> Random Cat Generator </h1>
 <br>
-<p>This project is a Random Cat Generator</p>
+<p>This project is a Random Cat Generator.</p>
 <br>
 <p>The project uses Cat API "docs.thecatapi.com" and it was generated using  https://api.thecatapi.com/v1/images/search</p>
 <br>
