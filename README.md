@@ -10,4 +10,4 @@
 <br>
 <p>Every time when you click on the button, different cat images will be displayed.</p>
 <br>
-<p>The image may take a second to load as the size of it may be big.</p>
+<p>The image may take a second to load as the size of it may be big. Hence, please wait till the image is loaded(it won't take longer than ONE second). </p>
