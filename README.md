@@ -8,4 +8,6 @@
 <br>
 <p>This website dislays random images of cats on clicking the button "I NEED A CAT".</p>
 <br>
+<p>Every time when you click on the button, different cat images will be displayed.</p>
+<br>
 <p>The image may take a second to load as the size of it may be big.</p>
