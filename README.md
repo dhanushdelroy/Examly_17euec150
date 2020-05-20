@@ -6,7 +6,7 @@
 <br>
 <p>This project is developed by using HTML,CSS,JS,Git,VS Code.</p>
 <br>
-<p>This website dislays random images of cats on clicking the button "I NEED A CAT".</p>
+<p>This website displays random images of cats on clicking the button "I NEED A CAT".</p>
 <br>
 <p>Every time when you click on the button, different cat images will be displayed.</p>
 <br>
